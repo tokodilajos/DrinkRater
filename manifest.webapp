@@ -1,0 +1,15 @@
+{
+  "version": "1.0",
+  "name": "Drink rater",
+  "description": "Store rated drink on your device.",
+  "launch_path": "/index.html",
+  "icons": {
+    "128": "/img/icon-128.png",
+    "64": "/img/icon-64.png"
+  },
+    "default_locale" : "en",
+  "developer": {
+    "name": "Lajos Tokodi",
+      "url": "http://github.com/uni-firefoxos"
+  }
+}
